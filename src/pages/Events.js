@@ -3,7 +3,7 @@ import React from "react";
 export const Events = () => {
 return (
 	<div className="events">
-	<h1>GeeksForGeeks Events</h1>
+	<h1>GeeksForGeeks Events 1232145452155452552</h1>
 	</div>
 );
 };
